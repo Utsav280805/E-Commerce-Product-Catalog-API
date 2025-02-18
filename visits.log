@@ -1,0 +1,45 @@
+Request received for path: /styles.css and from IP: ::1
+Time: 2025-02-15T05:50:56.003Z
+
+Request received for path: /favicon.ico and from IP: ::1
+Time: 2025-02-15T05:50:56.054Z
+
+Request received for path: /1 and from IP: ::1
+Time: 2025-02-15T05:51:01.581Z
+
+Request received for path: /logs and from IP: ::1
+Time: 2025-02-15T05:52:31.853Z
+
+Request received for path: /electronic and from IP: ::1
+Time: 2025-02-15T05:52:43.075Z
+
+Request received for path: /products/1 and from IP: ::1
+Time: 2025-02-15T05:53:09.603Z
+
+Request received for path: /products/electronic and from IP: ::1
+Time: 2025-02-15T05:53:14.131Z
+
+Request received for path: /logs and from IP: ::1
+Time: 2025-02-18T07:35:49.289Z
+
+Request received for path: /favicon.ico and from IP: ::1
+Time: 2025-02-18T07:35:49.740Z
+
+Request received for path: /products/1 and from IP: ::1
+Time: 2025-02-18T07:36:00.753Z
+
+Request received for path: /products/electronics and from IP: ::1
+Time: 2025-02-18T07:36:21.103Z
+
+Request received for path: /products?category=electronics and from IP: ::1
+Time: 2025-02-18T07:37:11.408Z
+
+Request received for path: /styles.css and from IP: ::1
+Time: 2025-02-18T07:37:56.490Z
+
+Request received for path: /products/3 and from IP: ::1
+Time: 2025-02-18T07:38:06.635Z
+
+Request received for path: /products?category=clothing and from IP: ::1
+Time: 2025-02-18T07:38:27.684Z
+
